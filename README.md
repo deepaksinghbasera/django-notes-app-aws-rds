@@ -69,7 +69,7 @@ The goal was to build a fully automated DevOps pipeline where:
 ## 📝 How to Run Locally  
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/deepaksinghbasera/django-notes-app-aws-rds.git
 cd django-notes-app
 
 # Build & run with Docker Compose
